@@ -1,4 +1,4 @@
- ###PHANTOM 
+# PHANTOM
  
  ![Phantom Theme](html5up-phantom/images/logo.svg)
 
