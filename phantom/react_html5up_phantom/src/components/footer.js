@@ -18,7 +18,7 @@ export default class Footer extends React.Component {
                                 <textarea name="message" id="message" placeholder="Message" defaultValue={""}/>
                             </div>
                             <ul className="actions">
-                                <li><input type="submit" defaultValue="Send" className="special"/></li>
+                                <li><input type="submit" value="Send" className="special"/></li>
                             </ul>
                         </form>
                     </section>
