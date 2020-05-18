@@ -1,4 +1,4 @@
-# PHANTOM
+# Work in Progress : PHANTOM
  
  ![Phantom Theme](html5up-phantom/images/logo.svg)
 
@@ -8,5 +8,7 @@ Features:
  HTML CSS SCSS
  No.of Pages: 3 (Home Page, Generic Page, Elements Page)
 ```
+
+
 
 
